@@ -1,0 +1,1 @@
+{"name":"Local: 最小边权差生成树","url":"/home/csp/文档/learn/training/dmy/图论初级/最小边权差生成树.cpp","tests":[{"id":1681460585649,"input":"4 4\n1 2 1\n2 3 4\n3 4 5\n1 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/dmy/图论初级/最小边权差生成树.cpp","group":"local","local":true}

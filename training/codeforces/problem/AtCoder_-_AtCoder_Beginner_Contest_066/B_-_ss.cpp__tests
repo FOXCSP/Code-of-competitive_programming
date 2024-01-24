@@ -1,0 +1,30 @@
+[
+	{
+		"correct_answers":
+		[
+			"6"
+		],
+		"test": "abaababaab\n"
+	},
+	{
+		"correct_answers":
+		[
+			"2"
+		],
+		"test": "xxxx\n"
+	},
+	{
+		"correct_answers":
+		[
+			"6"
+		],
+		"test": "abcabcabcabc\n"
+	},
+	{
+		"correct_answers":
+		[
+			"14"
+		],
+		"test": "akasakaakasakasakaakas\n"
+	}
+]

@@ -1,0 +1,1 @@
+{"name":"Local: 聚会","url":"/home/csp/文档/learn/training/dmy/图论初级/聚会.cpp","tests":[{"id":1681383698000,"input":"3 4 2\n1 2 3\n2 1 2\n2 3 2\n3 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/dmy/图论初级/聚会.cpp","group":"local","local":true}

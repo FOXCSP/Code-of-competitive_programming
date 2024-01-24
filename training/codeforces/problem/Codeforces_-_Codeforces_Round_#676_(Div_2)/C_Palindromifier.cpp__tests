@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"2\nR 2\nR 5"
+		],
+		"test": "abac\n"
+	},
+	{
+		"correct_answers":
+		[
+			"2\nL 4\nL 2"
+		],
+		"test": "acccc\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "hannah\n"
+	}
+]

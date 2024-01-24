@@ -1,0 +1,53 @@
+#include <bits/stdc++.h>
+// #define int long long
+#define lp (p<<1)
+#define rp (p<<1|1)
+#define fi first
+#define se second
+#define pb push_back
+#define PII pair<int,int>
+#define PLL pair<ll, ll>
+#define VI vector<int>
+#define SZ(x) ((int)x.size())
+#define VL vector<ll>;
+#define VPP vector<pii>
+#define lep(i, x, y) for (int i=(x);i<=(y);i++)
+#define rep(i, y, x) for (int i=(y);i>=(x);i--)
+#define all(x) x.begin(), x.end()
+using namespace std;
+using ll=long long;
+ll qmi(ll a, ll b, ll mod) 
+{ll res=1; while(b) {if(b&1) res=(res*a)%mod;a=(a*a)%mod;b>>=1;}return res;}
+int gcd(int a, int b) {return !b?a:gcd(b,a%b);}
+inline ll read() {
+	ll s=0,f=1; char c = getchar();
+	while (c<'0'||c>'9') {if(c=='-')f=-1;c=getchar();}
+	while ('0'<= c&&c<='9') {s=s*10+c-'0';c=getchar();}
+	return s*f;
+}
+void print(ll x) {if (!x) return ; if (x>9) print(x/10); putchar(x%10+'0');}
+const int Mod = 1e9+7;
+// --head--
+
+void solve() {
+	ll n; cin >> n;
+	int len = 1;
+	ll x = 26;
+	while (x < n) {
+		n -= x;
+		x *= 26;
+		len++;
+	}
+	n--;
+	string ans(len, 0);
+	for (int i = len - 1; i >= 0; i--) {
+		ans[i] = n % 26 + 'a';
+		n /= 26;
+	}
+	cout << ans << '\n';
+}
+
+int main() {
+	solve();
+	return 0;
+}

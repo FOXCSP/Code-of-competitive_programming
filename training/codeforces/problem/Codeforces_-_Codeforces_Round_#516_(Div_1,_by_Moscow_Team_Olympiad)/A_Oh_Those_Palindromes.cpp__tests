@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"ololo"
+		],
+		"test": "5\noolol\n"
+	},
+	{
+		"correct_answers":
+		[
+			"abccbaghghghgdfd"
+		],
+		"test": "16\ngagadbcgghhchbdf\n"
+	}
+]

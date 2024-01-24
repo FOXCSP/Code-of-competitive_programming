@@ -1,0 +1,1 @@
+{"name":"Local: 租房","url":"/home/csp/文档/learn/training/dmy/图论初级/租房.cpp","tests":[{"id":1681378469127,"input":"4 3\n1 2 1\n2 3 1\n3 4 1\n1 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/dmy/图论初级/租房.cpp","group":"local","local":true}

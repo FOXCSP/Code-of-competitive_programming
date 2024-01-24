@@ -1,0 +1,30 @@
+[
+	{
+		"correct_answers":
+		[
+			"LSC"
+		],
+		"test": "GOLSC\n"
+	},
+	{
+		"correct_answers":
+		[
+			"PCMS"
+		],
+		"test": "PCMSISTHEBEST\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Tie"
+		],
+		"test": "PCMSWILLNEVERBEATLSC\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Tie"
+		],
+		"test": "ADDOILEVERYONE\n"
+	}
+]

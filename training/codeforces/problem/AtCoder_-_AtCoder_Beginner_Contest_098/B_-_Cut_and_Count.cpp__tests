@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"2"
+		],
+		"test": "6\naabbca\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "10\naaaaaaaaaa\n"
+	},
+	{
+		"correct_answers":
+		[
+			"9"
+		],
+		"test": "45\ntgxgdqkyjzhyputjjtllptdfxocrylqfqjynmfbfucbir\n"
+	}
+]

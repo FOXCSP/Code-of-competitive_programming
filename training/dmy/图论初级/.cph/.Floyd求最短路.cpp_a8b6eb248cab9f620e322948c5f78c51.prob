@@ -1,0 +1,1 @@
+{"name":"Local: Floyd求最短路","url":"/home/csp/文档/learn/training/dmy/图论初级/Floyd求最短路.cpp","tests":[{"id":1681377962473,"input":"3 3 2\n1 2 3\n2 3 2\n3 2 1\n1 3\n3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/dmy/图论初级/Floyd求最短路.cpp","group":"local","local":true}

@@ -1,0 +1,17 @@
+[
+	{
+		"test": "5\nbbba\naba\naaa\nabba\nabbb\n"
+	},
+	{
+		"test": "2\naaaaa\nbbbbb\n"
+	},
+	{
+		"test": "3\nabbbbb\nbaaaaa\naaaaab\n"
+	},
+	{
+		"test": "1\nbaaaab\n"
+	},
+	{
+		"test": "2\nabbbba\naaabaaaa\n"
+	}
+]

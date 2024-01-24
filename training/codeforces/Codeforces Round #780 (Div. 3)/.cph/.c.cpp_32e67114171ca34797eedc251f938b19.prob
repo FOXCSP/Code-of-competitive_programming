@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\Users\\CHEN\\acm\\cf\\Codeforces Round #780 (Div. 3)\\c.cpp","tests":[{"id":1676105605235,"input":"6\naabbdabdccc\nzyx\naaababbb\naabbcc\noaoaaaoo\nbmefbmuyw","output":"3\n3\n2\n0\n2\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\CHEN\\acm\\cf\\Codeforces Round #780 (Div. 3)\\c.cpp","group":"local","local":true}

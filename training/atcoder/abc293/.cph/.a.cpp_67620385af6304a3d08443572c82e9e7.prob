@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/csp/文档/learn/training/at/abc293/a.cpp","tests":[{"id":1680701911236,"input":"abcdef","output":"badcfe"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/at/abc293/a.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 新年礼物","url":"/home/csp/文档/learn/training/dmy/图论初级/新年礼物.cpp","tests":[{"id":1681402950887,"input":"3 3\n1 2\n2 3\n1 3","output":""},{"id":1681402975156,"input":"8 8\n1 4\n6 5\n6 8\n2 5\n1 8\n1 7\n6 2\n2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/dmy/图论初级/新年礼物.cpp","group":"local","local":true}

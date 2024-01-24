@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"/home/csp/文档/learn/training/atcoder/abc297/c.cpp","tests":[{"id":1681042437791,"input":"2 3\nTTT\nT.T\n","output":""},{"id":1681042444942,"input":"3 5\nTTT..\n.TTT.\nTTTTT\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/csp/文档/learn/training/atcoder/abc297/c.cpp","group":"local","local":true}
